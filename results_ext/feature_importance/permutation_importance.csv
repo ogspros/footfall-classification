@@ -1,0 +1,25 @@
+feature,feature_short,importance_mean,importance_std,rank_permutation
+higuchi_fd,higuchi_fd,0.056127428528943674,0.01139416839493379,1
+value__autocorrelation__lag_6,Autocorrelation (lag 6),0.034689456997217295,0.012690158641758816,2
+value__spkt_welch_density__coeff_8,Welch PSD (coeff 8),0.03346128716477855,0.01277216783852373,3
+"value__agg_autocorrelation__f_agg_""mean""__maxlag_40",Aggregated Autocorr Mean (maxlag 40),0.030272648848709675,0.011799247232577931,4
+"value__augmented_dickey_fuller__attr_""teststat""__autolag_""AIC""",ADF Test Stat (AIC),0.03010324542004067,0.012733747368692552,5
+value__longest_strike_below_mean,Longest Strike Below Mean,0.026420205988883897,0.011230237928024528,6
+value__ar_coefficient__coeff_0__k_10,"AR Coefficient (0, order 10)",0.023462758352535865,0.010045225617571405,7
+value__autocorrelation__lag_7,Autocorrelation (lag 7),0.018500689825950337,0.006323169804926012,8
+value__spkt_welch_density__coeff_5,Welch PSD (coeff 5),0.018114569048640845,0.01066330319590679,9
+value__autocorrelation__lag_9,Autocorrelation (lag 9),0.01519903652645129,0.007564150089283458,10
+value__partial_autocorrelation__lag_4,partial_Autocorrelation (lag 4),0.010953271880509556,0.007361625523864535,11
+"value__fft_aggregated__aggtype_""centroid""",FFT Spectral Centroid,0.010254557998950508,0.006349795248664532,12
+value__autocorrelation__lag_4,Autocorrelation (lag 4),0.008689797778375797,0.006305259952955993,13
+value__partial_autocorrelation__lag_3,partial_Autocorrelation (lag 3),0.007484499004146742,0.006441607005190994,14
+value__autocorrelation__lag_5,Autocorrelation (lag 5),0.006650688162003719,0.00595945823563027,15
+"value__fft_aggregated__aggtype_""skew""",FFT Spectral Skewness,0.00584167899788773,0.005645101837181091,16
+petrosian_fd,petrosian_fd,0.004775643451610464,0.0038759102245152174,17
+value__quantile__q_0.1,Quantile (0.1),0.0046922270200946085,0.005257490609538959,18
+value__energy_ratio_by_chunks__num_segments_10__segment_focus_7,"Energy Ratio (segments=10, focus=7)",0.004422923877212581,0.00223605258690595,19
+value__autocorrelation__lag_3,Autocorrelation (lag 3),0.004383863367661012,0.004207191249061699,20
+value__fourier_entropy__bins_10,Fourier Entropy (bins 10),0.0043058804111705895,0.006817506368640303,21
+value__permutation_entropy__dimension_6__tau_1,"Permutation Entropy (dim 6, tau=1)",0.0019233383981788273,0.0025399978180842154,22
+value__permutation_entropy__dimension_5__tau_1,"Permutation Entropy (dim 5, tau=1)",0.001098139789902878,0.006160769670400987,23
+value__autocorrelation__lag_1,Autocorrelation (lag 1),0.00044523612327020584,0.002178149030824524,24

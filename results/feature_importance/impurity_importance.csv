@@ -1,0 +1,18 @@
+feature,feature_short,importance,rank_impurity
+value__autocorrelation__lag_3,Autocorrelation (lag 3),0.24522182,1
+value__autocorrelation__lag_6,Autocorrelation (lag 6),0.12134198,2
+value__autocorrelation__lag_4,Autocorrelation (lag 4),0.057728607,3
+"value__agg_autocorrelation__f_agg_""mean""__maxlag_40",Aggregated Autocorr Mean (maxlag 40),0.056181382,4
+"value__fft_aggregated__aggtype_""centroid""",FFT Spectral Centroid,0.053641863,5
+"value__augmented_dickey_fuller__attr_""teststat""__autolag_""AIC""",ADF Test Stat (AIC),0.04892184,6
+value__spkt_welch_density__coeff_8,Welch PSD (coeff 8),0.048684392,7
+value__friedrich_coefficients__coeff_2__m_3__r_30,"Friedrich Coeff (2, m=3, r=30)",0.04645561,8
+value__autocorrelation__lag_2,Autocorrelation (lag 2),0.041639134,9
+value__autocorrelation__lag_7,Autocorrelation (lag 7),0.038758837,10
+value__spkt_welch_density__coeff_5,Welch PSD (coeff 5),0.03822913,11
+value__autocorrelation__lag_1,Autocorrelation (lag 1),0.036053374,12
+value__sum_of_reoccurring_values,Sum Reoccurring Values,0.0355628,13
+value__autocorrelation__lag_9,Autocorrelation (lag 9),0.034568343,14
+value__sum_of_reoccurring_data_points,Sum Reoccurring Datapoints,0.033940647,15
+"value__fft_aggregated__aggtype_""skew""",FFT Spectral Skewness,0.033842795,16
+value__partial_autocorrelation__lag_4,partial_Autocorrelation (lag 4),0.029227518,17

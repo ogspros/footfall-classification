@@ -1,0 +1,8 @@
+{
+  "train_size": 1348,
+  "test_size": 338,
+  "n_features": 355,
+  "n_classes": 4,
+  "random_state": 42,
+  "test_fraction": 0.2
+}

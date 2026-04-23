@@ -1,0 +1,6 @@
+model,best_cv_score,cv_std,test_score,n_combinations,best_params
+XGB,0.8304258726776137,0.0164094552487727,0.8304398016622867,1296,"{'clf__colsample_bytree': 1.0, 'clf__learning_rate': 0.1, 'clf__max_depth': 5, 'clf__min_child_weight': 3, 'clf__n_estimators': 1000, 'clf__reg_alpha': 0.0, 'clf__reg_lambda': 1.0, 'clf__subsample': 0.8}"
+MLP,0.8105571370280474,0.029753454808488632,0.834319526627219,1096,
+SVM,0.8075165181008233,0.0236844994179955,0.8461538461538461,548,"{'clf__C': 10, 'clf__gamma': 0.001, 'clf__kernel': 'rbf'}"
+RF,0.817281779772262,0.01709427586934362,0.849112426035503,2943,
+kNN,0.7349887674434028,0.016409702809901,0.7662721893491125,806,"{'clf__n_neighbors': 3, 'clf__p': 1, 'clf__weights': 'distance'}"

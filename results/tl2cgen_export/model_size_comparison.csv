@@ -1,0 +1,2 @@
+Model,C Code Size (KB),C Code Lines,n_estimators,max_depth
+XGB k17 (fine-tuned),868.2236328125,23691,100,7

@@ -1,0 +1,12 @@
+{
+  "best_k": 36,
+  "best_score": 0.8372229815255168,
+  "best_std": 0.02646781569504882,
+  "k_1se": 17,
+  "score_1se": 0.8264893602704486,
+  "threshold_1se": 0.8253862145035038,
+  "k_friedman": 4,
+  "score_friedman": 0.6996575379419745,
+  "critical_difference": 6.058598737882108,
+  "n_folds": 5
+}

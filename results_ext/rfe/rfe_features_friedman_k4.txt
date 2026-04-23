@@ -1,0 +1,4 @@
+higuchi_fd
+value__autocorrelation__lag_6
+value__autocorrelation__lag_3
+value__agg_autocorrelation__f_agg_"mean"__maxlag_40

@@ -1,0 +1,21 @@
+{
+  "models": {
+    "baseline": "exp001_ensemble_k17",
+    "candidate": "exp002_ensemble_k24_ext"
+  },
+  "n_test": 338,
+  "contingency": {
+    "both_correct": 281,
+    "exp001_only_correct": 11,
+    "exp002_only_correct": 9,
+    "both_wrong": 37
+  },
+  "discordant_total": 20,
+  "winner_by_discordant": "exp001",
+  "mcnemar_exact_pvalue": 0.8238029479980469,
+  "mcnemar_chi2_cc_stat": 0.05,
+  "mcnemar_chi2_cc_pvalue": 0.8230632737581214,
+  "alpha": 0.05,
+  "significant_exact": false,
+  "significant_chi2_cc": false
+}

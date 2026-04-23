@@ -1,0 +1,9 @@
+Metric,exp001 (k=17),"exp002 (k=24, ext)",Δ (exp002 − exp001)
+Accuracy,0.8639,0.8521,-0.0118
+Balanced Accuracy,0.8305,0.8235,-0.007
+F1 (Macro),0.8406,0.8273,-0.0134
+F1 (Weighted),0.8609,0.8494,-0.0114
+Precision (Macro),0.8601,0.8359,-0.0242
+Recall (Macro),0.8305,0.8235,-0.007
+Accuracy (std across folds),0.012,0.0054,-0.0066
+F1 (Macro) (std across folds),0.0197,0.006,-0.0137

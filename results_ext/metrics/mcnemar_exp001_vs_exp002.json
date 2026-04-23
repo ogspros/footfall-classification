@@ -1,0 +1,13 @@
+{
+  "n_test_samples": 338,
+  "exp001_model": "xgb_finetuned_k17",
+  "exp002_model": "xgb_finetuned_k24",
+  "exp001_accuracy": 0.8579881656804734,
+  "exp002_accuracy": 0.878698224852071,
+  "accuracy_delta_exp002_minus_exp001": 0.020710059171597628,
+  "b_exp002_correct_exp001_wrong": 17,
+  "c_exp002_wrong_exp001_correct": 10,
+  "mcnemar_exact_pvalue": 0.24778856337070465,
+  "mcnemar_chi2_cc_stat": 1.3333333333333333,
+  "mcnemar_chi2_cc_pvalue": 0.24821307898992026
+}

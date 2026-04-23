@@ -1,0 +1,22 @@
+{
+  "selected_k": 17,
+  "n_features": 17,
+  "best_params": {
+    "clf__colsample_bytree": 1.0,
+    "clf__learning_rate": 0.1,
+    "clf__max_depth": 7,
+    "clf__min_child_weight": 5,
+    "clf__n_estimators": 100,
+    "clf__subsample": 0.8
+  },
+  "cv_score_mean": 0.8321653468570803,
+  "cv_score_std": 0.03068407694585381,
+  "test_score": 0.8391778965303593,
+  "fold_scores": [
+    0.8460342647790866,
+    0.85192341723318,
+    0.7722578291439918,
+    0.8355436735123396,
+    0.8550675496168036
+  ]
+}

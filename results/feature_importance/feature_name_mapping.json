@@ -1,0 +1,19 @@
+{
+  "value__autocorrelation__lag_3": "Autocorrelation (lag 3)",
+  "value__friedrich_coefficients__coeff_2__m_3__r_30": "Friedrich Coeff (2, m=3, r=30)",
+  "value__sum_of_reoccurring_values": "Sum Reoccurring Values",
+  "value__autocorrelation__lag_6": "Autocorrelation (lag 6)",
+  "value__sum_of_reoccurring_data_points": "Sum Reoccurring Datapoints",
+  "value__agg_autocorrelation__f_agg_\"mean\"__maxlag_40": "Aggregated Autocorr Mean (maxlag 40)",
+  "value__augmented_dickey_fuller__attr_\"teststat\"__autolag_\"AIC\"": "ADF Test Stat (AIC)",
+  "value__fft_aggregated__aggtype_\"centroid\"": "FFT Spectral Centroid",
+  "value__spkt_welch_density__coeff_8": "Welch PSD (coeff 8)",
+  "value__autocorrelation__lag_4": "Autocorrelation (lag 4)",
+  "value__autocorrelation__lag_7": "Autocorrelation (lag 7)",
+  "value__spkt_welch_density__coeff_5": "Welch PSD (coeff 5)",
+  "value__fft_aggregated__aggtype_\"skew\"": "FFT Spectral Skewness",
+  "value__autocorrelation__lag_9": "Autocorrelation (lag 9)",
+  "value__autocorrelation__lag_1": "Autocorrelation (lag 1)",
+  "value__autocorrelation__lag_2": "Autocorrelation (lag 2)",
+  "value__partial_autocorrelation__lag_4": "partial_Autocorrelation (lag 4)"
+}

@@ -1,0 +1,22 @@
+{
+  "original_xgb": {
+    "mean_cv_score": 0.8343198725985891,
+    "std_cv_score": 0.021104116077530488,
+    "n_features": 355,
+    "n_estimators": 300
+  },
+  "finetuned_xgb": {
+    "mean_cv_score": 0.8549408348246637,
+    "std_cv_score": 0.017704608178494285,
+    "n_features": 24,
+    "n_estimators": 200
+  },
+  "wilcoxon_test": {
+    "statistic": 0.0,
+    "p_value": 0.0625,
+    "significant": false,
+    "mean_a": 0.8343198725985891,
+    "mean_b": 0.8549408348246637,
+    "difference": 0.02062096222607457
+  }
+}

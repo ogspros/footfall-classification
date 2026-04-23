@@ -1,0 +1,25 @@
+,BB,C,GW,WTD,feature_short
+higuchi_fd,0.18683663,1.0910891,0.7942768,0.62807554,higuchi_fd
+value__autocorrelation__lag_6,0.36591443,0.09115222,1.3025519,0.22816117,Autocorrelation (lag 6)
+value__autocorrelation__lag_3,0.3648516,0.7338492,0.24043813,0.07038589,Autocorrelation (lag 3)
+"value__agg_autocorrelation__f_agg_""mean""__maxlag_40",0.5879503,0.26916677,0.7396879,0.14711809,Aggregated Autocorr Mean (maxlag 40)
+value__autocorrelation__lag_4,0.8492369,0.26864898,0.15504237,0.056475807,Autocorrelation (lag 4)
+"value__augmented_dickey_fuller__attr_""teststat""__autolag_""AIC""",0.22896643,0.33182296,0.20337537,0.62332016,ADF Test Stat (AIC)
+"value__fft_aggregated__aggtype_""centroid""",0.06722338,0.04007028,0.34919035,0.13356453,FFT Spectral Centroid
+value__spkt_welch_density__coeff_8,0.30461085,0.8833746,0.6722655,0.48661008,Welch PSD (coeff 8)
+value__spkt_welch_density__coeff_5,0.4284918,0.19919272,0.34501225,0.21032614,Welch PSD (coeff 5)
+"value__fft_aggregated__aggtype_""skew""",0.104237035,0.050712433,0.3675533,0.35873196,FFT Spectral Skewness
+value__autocorrelation__lag_1,0.057771422,0.085719235,0.08962487,0.041518223,Autocorrelation (lag 1)
+value__autocorrelation__lag_7,0.1552111,0.0921795,0.22278884,0.39777675,Autocorrelation (lag 7)
+value__fourier_entropy__bins_10,0.12945972,0.39374667,0.31712303,0.32078388,Fourier Entropy (bins 10)
+value__permutation_entropy__dimension_5__tau_1,0.19444971,0.28292346,0.040741324,0.10188639,"Permutation Entropy (dim 5, tau=1)"
+value__permutation_entropy__dimension_6__tau_1,0.07510448,0.08564518,0.07804036,0.05684285,"Permutation Entropy (dim 6, tau=1)"
+value__partial_autocorrelation__lag_4,0.19771099,0.34016743,0.29717743,0.25737703,partial_Autocorrelation (lag 4)
+value__energy_ratio_by_chunks__num_segments_10__segment_focus_7,0.1255931,0.056331173,0.08239995,0.022542847,"Energy Ratio (segments=10, focus=7)"
+value__ar_coefficient__coeff_0__k_10,0.37579426,0.23731011,0.13401635,0.346404,"AR Coefficient (0, order 10)"
+value__quantile__q_0.1,0.10837746,0.05366517,0.17709321,0.2945212,Quantile (0.1)
+petrosian_fd,0.22292069,0.098232076,0.07949346,0.14052324,petrosian_fd
+value__autocorrelation__lag_9,0.19408852,0.40981302,0.12720487,0.34402663,Autocorrelation (lag 9)
+value__partial_autocorrelation__lag_3,0.29742706,0.11499136,0.2552185,0.3355916,partial_Autocorrelation (lag 3)
+value__autocorrelation__lag_5,0.28930855,0.18307243,0.13475962,0.14249253,Autocorrelation (lag 5)
+value__longest_strike_below_mean,0.18546833,0.33369523,0.18819205,0.50866383,Longest Strike Below Mean

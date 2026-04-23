@@ -1,0 +1,25 @@
+feature,feature_short,rank_impurity,rank_permutation,rank_shap,mean_rank,rank_std
+higuchi_fd,higuchi_fd,3,1,1,1.6666666666666667,1.1547005383792515
+value__autocorrelation__lag_6,Autocorrelation (lag 6),2,2,3,2.3333333333333335,0.5773502691896258
+"value__agg_autocorrelation__f_agg_""mean""__maxlag_40",Aggregated Autocorr Mean (maxlag 40),5,4,4,4.333333333333333,0.5773502691896258
+value__spkt_welch_density__coeff_8,Welch PSD (coeff 8),9,3,2,4.666666666666667,3.7859388972001824
+"value__augmented_dickey_fuller__attr_""teststat""__autolag_""AIC""",ADF Test Stat (AIC),7,5,6,6.0,1.0
+value__autocorrelation__lag_4,Autocorrelation (lag 4),4,13,7,8.0,4.58257569495584
+value__autocorrelation__lag_3,Autocorrelation (lag 3),1,20,5,8.666666666666666,10.016652800877813
+value__spkt_welch_density__coeff_5,Welch PSD (coeff 5),11,9,9,9.666666666666666,1.1547005383792517
+value__longest_strike_below_mean,Longest Strike Below Mean,18,6,8,10.666666666666666,6.429100507328637
+value__autocorrelation__lag_7,Autocorrelation (lag 7),10,8,16,11.333333333333334,4.163331998932266
+value__partial_autocorrelation__lag_4,partial_Autocorrelation (lag 4),15,11,12,12.666666666666666,2.0816659994661326
+"value__fft_aggregated__aggtype_""centroid""",FFT Spectral Centroid,6,12,20,12.666666666666666,7.023769168568492
+value__ar_coefficient__coeff_0__k_10,"AR Coefficient (0, order 10)",24,7,11,14.0,8.888194417315589
+value__fourier_entropy__bins_10,Fourier Entropy (bins 10),12,21,10,14.333333333333334,5.8594652770823155
+value__autocorrelation__lag_9,Autocorrelation (lag 9),22,10,13,15.0,6.244997998398398
+"value__fft_aggregated__aggtype_""skew""",FFT Spectral Skewness,16,16,15,15.666666666666666,0.5773502691896257
+value__partial_autocorrelation__lag_3,partial_Autocorrelation (lag 3),19,14,14,15.666666666666666,2.8867513459481287
+petrosian_fd,petrosian_fd,13,17,21,17.0,4.0
+value__autocorrelation__lag_5,Autocorrelation (lag 5),20,15,17,17.333333333333332,2.5166114784235836
+value__autocorrelation__lag_1,Autocorrelation (lag 1),8,24,24,18.666666666666668,9.237604307034013
+value__permutation_entropy__dimension_5__tau_1,"Permutation Entropy (dim 5, tau=1)",14,23,19,18.666666666666668,4.509249752822894
+value__quantile__q_0.1,Quantile (0.1),21,18,18,19.0,1.7320508075688772
+value__energy_ratio_by_chunks__num_segments_10__segment_focus_7,"Energy Ratio (segments=10, focus=7)",17,19,23,19.666666666666668,3.055050463303893
+value__permutation_entropy__dimension_6__tau_1,"Permutation Entropy (dim 6, tau=1)",23,22,22,22.333333333333332,0.5773502691896258

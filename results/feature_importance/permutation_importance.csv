@@ -1,0 +1,18 @@
+feature,feature_short,importance_mean,importance_std,rank_permutation
+value__spkt_welch_density__coeff_8,Welch PSD (coeff 8),0.11619146571225998,0.01746770580116947,1
+value__autocorrelation__lag_6,Autocorrelation (lag 6),0.07704743814748236,0.01401925169696978,2
+value__autocorrelation__lag_3,Autocorrelation (lag 3),0.06137761000088873,0.012865556760393753,3
+value__spkt_welch_density__coeff_5,Welch PSD (coeff 5),0.046634222820527114,0.018260667569894685,4
+"value__agg_autocorrelation__f_agg_""mean""__maxlag_40",Aggregated Autocorr Mean (maxlag 40),0.03832597241642022,0.013367209056103573,5
+value__autocorrelation__lag_7,Autocorrelation (lag 7),0.03197262922781927,0.011589541014134466,6
+"value__augmented_dickey_fuller__attr_""teststat""__autolag_""AIC""",ADF Test Stat (AIC),0.022366064958432005,0.011450893940642136,7
+"value__fft_aggregated__aggtype_""skew""",FFT Spectral Skewness,0.015867653578479298,0.009095048805904848,8
+value__autocorrelation__lag_1,Autocorrelation (lag 1),0.010278129483173392,0.004526736219202748,9
+value__partial_autocorrelation__lag_4,partial_Autocorrelation (lag 4),0.0083276938684174,0.008379633286555265,10
+value__autocorrelation__lag_2,Autocorrelation (lag 2),0.006105818993030935,0.004706580487242042,11
+"value__fft_aggregated__aggtype_""centroid""",FFT Spectral Centroid,0.005724157389880405,0.007214245651236412,12
+value__sum_of_reoccurring_data_points,Sum Reoccurring Datapoints,0.004244673505495252,0.000788216082054113,13
+value__sum_of_reoccurring_values,Sum Reoccurring Values,0.003981706622847003,0.005942942440787273,14
+value__autocorrelation__lag_9,Autocorrelation (lag 9),0.003014051759999122,0.008986999441668088,15
+value__autocorrelation__lag_4,Autocorrelation (lag 4),-0.00016649084187082182,0.008932105972270416,16
+value__friedrich_coefficients__coeff_2__m_3__r_30,"Friedrich Coeff (2, m=3, r=30)",-0.0078777271864148,0.0032275232308696506,17

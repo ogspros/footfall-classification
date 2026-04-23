@@ -1,0 +1,16 @@
+\begin{table}
+\caption{Conformal prediction results (CrossConformalClassifier, XGBoost k=17). Coverage is the empirical marginal coverage on the test set. Selective accuracy is computed only on singleton prediction sets.}
+\label{tab:conformal_results}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+Score & Confidence & $\alpha$ & Coverage & Mean Set Size & Empty & Singleton & Multi-label & Abstention & Selective Acc. & Selective F1 \\
+\midrule
+LAC & 90% & 0.1000 & 0.9172 & 1.2012 & 0 & 276 & 62 & 0.1834 & 0.9275 & 0.9173 \\
+LAC & 95% & 0.0500 & 0.9615 & 1.5680 & 0 & 204 & 134 & 0.3964 & 0.9706 & 0.9424 \\
+LAC & 99% & 0.0100 & 0.9970 & 2.5266 & 0 & 89 & 249 & 0.7367 & 1.0000 & 0.7500 \\
+APS & 90% & 0.1000 & 0.9645 & 1.6065 & 0 & 194 & 144 & 0.4260 & 0.9691 & 0.9413 \\
+APS & 95% & 0.0500 & 0.9793 & 1.9408 & 0 & 145 & 193 & 0.5710 & 0.9931 & 0.9949 \\
+APS & 99% & 0.0100 & 1.0000 & 3.3462 & 0 & 5 & 333 & 0.9852 & 1.0000 & 0.5000 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,27 @@
+{
+  "model": "RF",
+  "best_params": {
+    "clf__bootstrap": false,
+    "clf__class_weight": "balanced",
+    "clf__max_depth": 20,
+    "clf__max_features": 0.3,
+    "clf__min_samples_leaf": 1,
+    "clf__min_samples_split": 5,
+    "clf__n_estimators": 800
+  },
+  "mean_train_score": 1.0,
+  "std_train_score": 0.0,
+  "mean_test_score": 0.8216145075421328,
+  "std_test_score": 0.025381269768951085,
+  "test_score": 0.834319526627219,
+  "split0_train_score": 1.0,
+  "split0_test_score": 0.8533908662662835,
+  "split1_train_score": 1.0,
+  "split1_test_score": 0.8123695767959913,
+  "split2_train_score": 1.0,
+  "split2_test_score": 0.7805427599628085,
+  "split3_train_score": 1.0,
+  "split3_test_score": 0.8193287514882317,
+  "split4_train_score": 1.0,
+  "split4_test_score": 0.8424405831973497
+}

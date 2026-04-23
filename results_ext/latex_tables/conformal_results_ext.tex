@@ -1,0 +1,16 @@
+\begin{table}
+\caption{Conformal prediction results (CrossConformalClassifier, XGBoost k=24, Extended). Coverage is the empirical marginal coverage on the test set.}
+\label{tab:conformal_ext_results}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+Score & Confidence & $\alpha$ & Coverage & Mean Set Size & Empty & Singleton & Multi-label & Abstention & Selective Acc. & Selective F1 \\
+\midrule
+LAC & 90% & 0.1000 & 0.9260 & 1.1716 & 0 & 284 & 54 & 0.1598 & 0.9366 & 0.9239 \\
+LAC & 95% & 0.0500 & 0.9645 & 1.4763 & 0 & 228 & 110 & 0.3254 & 0.9781 & 0.9711 \\
+LAC & 99% & 0.0100 & 1.0000 & 2.3846 & 0 & 109 & 229 & 0.6775 & 1.0000 & 1.0000 \\
+APS & 90% & 0.1000 & 0.9586 & 1.4083 & 0 & 239 & 99 & 0.2929 & 0.9665 & 0.9586 \\
+APS & 95% & 0.0500 & 0.9852 & 1.7633 & 0 & 180 & 158 & 0.4675 & 0.9944 & 0.9950 \\
+APS & 99% & 0.0100 & 1.0000 & 2.7337 & 0 & 57 & 281 & 0.8314 & 1.0000 & 0.7500 \\
+\bottomrule
+\end{tabular}
+\end{table}

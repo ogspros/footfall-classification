@@ -1,0 +1,29 @@
+{
+  "model": "MLP",
+  "best_params": {
+    "clf__activation": "relu",
+    "clf__alpha": 0.1,
+    "clf__early_stopping": false,
+    "clf__hidden_layer_sizes": [
+      64,
+      32,
+      16
+    ],
+    "clf__learning_rate_init": 0.005
+  },
+  "mean_train_score": 0.9433325497139944,
+  "std_train_score": 0.03197193931194672,
+  "mean_test_score": 0.8088189346957713,
+  "std_test_score": 0.024754218195321104,
+  "test_score": 0.8313609467455622,
+  "split0_train_score": 0.8834115780495562,
+  "split0_test_score": 0.8351331603604258,
+  "split1_train_score": 0.9542224489472857,
+  "split1_test_score": 0.7949087950234739,
+  "split2_train_score": 0.9565882679335189,
+  "split2_test_score": 0.7883648992076908,
+  "split3_train_score": 0.9783412623654935,
+  "split3_test_score": 0.7834571971140343,
+  "split4_train_score": 0.9440991912741182,
+  "split4_test_score": 0.8422306217732312
+}

@@ -1,0 +1,24 @@
+{
+  "model": "SVM",
+  "best_params": {
+    "clf__C": 5,
+    "clf__class_weight": null,
+    "clf__gamma": 0.001,
+    "clf__kernel": "rbf"
+  },
+  "mean_train_score": 0.9227492336126508,
+  "std_train_score": 0.005439831170023007,
+  "mean_test_score": 0.8065876839123989,
+  "std_test_score": 0.026069399985367475,
+  "test_score": 0.8431952662721893,
+  "split0_train_score": 0.9126365551589924,
+  "split0_test_score": 0.8343779817685374,
+  "split1_train_score": 0.923147193786954,
+  "split1_test_score": 0.7984289063312482,
+  "split2_train_score": 0.9289349067123888,
+  "split2_test_score": 0.7715686821491986,
+  "split3_train_score": 0.9252364409012184,
+  "split3_test_score": 0.7896391439821465,
+  "split4_train_score": 0.9237910715037003,
+  "split4_test_score": 0.8389237053308638
+}

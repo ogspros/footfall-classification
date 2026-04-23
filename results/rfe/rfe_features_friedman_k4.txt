@@ -1,0 +1,4 @@
+value__autocorrelation__lag_3
+value__friedrich_coefficients__coeff_2__m_3__r_30
+value__sum_of_reoccurring_values
+value__autocorrelation__lag_6

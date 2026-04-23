@@ -1,0 +1,23 @@
+{
+  "model": "kNN",
+  "best_params": {
+    "clf__n_neighbors": 3,
+    "clf__p": 1,
+    "clf__weights": "distance"
+  },
+  "mean_train_score": 1.0,
+  "std_train_score": 0.0,
+  "mean_test_score": 0.7349887674434028,
+  "std_test_score": 0.016409702809901,
+  "test_score": 0.7662721893491125,
+  "split0_train_score": 1.0,
+  "split0_test_score": 0.7538853864205167,
+  "split1_train_score": 1.0,
+  "split1_test_score": 0.7521476894792318,
+  "split2_train_score": 1.0,
+  "split2_test_score": 0.7225995599277621,
+  "split3_train_score": 1.0,
+  "split3_test_score": 0.7117244856161578,
+  "split4_train_score": 1.0,
+  "split4_test_score": 0.734586715773345
+}
