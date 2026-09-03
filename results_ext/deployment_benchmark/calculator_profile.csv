@@ -1,0 +1,7 @@
+calculator,implementation,median_ms,q1_ms,q3_ms
+ADF (AIC lag search),Reference,66.70727550000001,66.36842,67.077587
+ADF (AIC lag search),Optimized,7.056608000000001,7.021081000000001,7.145736749999999
+"Permutation entropy (d=5,6)",Reference,7.77444,7.7058695,7.825497
+"Permutation entropy (d=5,6)",Optimized,0.993162,0.9034415,1.15751925
+"Partial autocorrelation (lags 3,4)",Reference,3.96077,3.95747325,3.96338
+"Partial autocorrelation (lags 3,4)",Optimized,0.043752,0.04354125,0.04414425

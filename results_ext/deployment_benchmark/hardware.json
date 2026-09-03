@@ -1,0 +1,13 @@
+{
+  "cpu": "AMD EPYC 7443P 24-Core Processor",
+  "platform": "Linux-4.18.0-553.89.1.el8_10.x86_64-x86_64-with-glibc2.28",
+  "threads": 1,
+  "batch_size": 1,
+  "n_signals": 338,
+  "warmup_runs": 5,
+  "sample_rate_hz": 800,
+  "signal_duration_s": 6.0,
+  "xgb_model": "results_ext/finetuned_models/xgb_finetuned_k24.pkl",
+  "cnn_checkpoint": "/home/rpignelli/Projects/Footfall_identification_baseline/output/5fs_cv/wavelet_cnn_5fs_fold1.pt",
+  "timing_scope": "path-specific representation plus inference; shared loading/resampling/filtering excluded"
+}
